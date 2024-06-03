@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Saurabh%20Kamal/Desktop/Data/Krish/Model%20Deployment/MLOPS%20%20Production%20Ready%20Data%20Science%20Projects/Project%20Batch%20-%201/Chest-Disease-Classification/research/mlruns/0/801262faae4a4b8ab125beea6ab84e42/artifacts
+end_time: 1717418422277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 801262faae4a4b8ab125beea6ab84e42
+run_name: industrious-pug-274
+run_uuid: 801262faae4a4b8ab125beea6ab84e42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717418411879
+status: 3
+tags: []
+user_id: Saurabh Kamal
