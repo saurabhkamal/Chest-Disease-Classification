@@ -71,6 +71,9 @@ if __name__ == "__main__":
         mlflow.log_metric("mae", mae)
 
         
+        # For remote server only (Dagshub)
+        remote_server_uri = "https://dagshub.com/saurabhkamal/MLflow-Experiment-demo.mlflow"
+        mlflow.set_tracking_uri(remote_server_uri)
         
         # You can also track this experiment in the remote server otherwise it will save inside the local machine. It will create MLFLOW, inside that it will save all the experiment.
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
