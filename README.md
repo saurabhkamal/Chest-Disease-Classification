@@ -39,3 +39,18 @@ pip install -r requirements.txt
 python app.py
 ```
 
+### MLFLOW dagshub connection uri
+
+```bash
+MLFLOW_TRACKING_URI=https://dagshub.com/saurabhkamal/Chest-Disease-Classification.mlflow \ 
+MLFLOW_TRACKING_USERNAME=saurabhkamal \
+MLFLOW_TRACKING_PASSWORD=Token \    
+python script.py
+```
+
+### RUN from Bash Terminal
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/saurabhkamal/Chest-Disease-Classification.mlflow
+export MLFLOW_TRACKING_USERNAME=saurabhkamal
+export MLFLOW_TRACKING_PASSWORD=#####
+```

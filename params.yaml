@@ -2,7 +2,7 @@ AUGMENTATION: True
 IMAGE_SIZE: [224, 224, 3] # as per VGG 16 model Image Width=224, Height=224, channel=3 (means RGB image)
 BATCH_SIZE: 16 # Training on CPU so taken 16
 INCLUDE_TOP: False # Not including dense layer part and replacing with custom layer so False
-EPOCHS: 1 # Training on CPU will take time that's why kept 1. In case of GPu, I will increase the parameter
+EPOCHS: 2 # Training on CPU will take time that's why kept 1. In case of GPu, I will increase the parameter
 CLASSES: 2
 WEIGHTS: imagenet # The parameter to be passed.
-LEARNING_RATE: 0.01
+LEARNING_RATE: 0.02
