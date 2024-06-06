@@ -49,8 +49,13 @@ python script.py
 ```
 
 ### RUN from Bash Terminal
-
+```bash
 export MLFLOW_TRACKING_URI=https://dagshub.com/saurabhkamal/Chest-Disease-Classification.mlflow
 export MLFLOW_TRACKING_USERNAME=saurabhkamal
-export MLFLOW_TRACKING_PASSWORD=#####
+export MLFLOW_TRACKING_PASSWORD=Token 
 ```
+
+### DVC cmd
+1. dvc init
+2. dvc repro
+3. dvc dag

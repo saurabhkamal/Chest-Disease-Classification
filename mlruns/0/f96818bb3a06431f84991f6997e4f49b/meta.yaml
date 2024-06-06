@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Saurabh%20Kamal/Desktop/Data/Krish/Model%20Deployment/MLOPS%20%20Production%20Ready%20Data%20Science%20Projects/Project%20Batch%20-%201/Chest-Disease-Classification/mlruns/0/f96818bb3a06431f84991f6997e4f49b/artifacts
+end_time: 1717633294433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f96818bb3a06431f84991f6997e4f49b
+run_name: shivering-stoat-160
+run_uuid: f96818bb3a06431f84991f6997e4f49b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717633286363
+status: 3
+tags: []
+user_id: Saurabh Kamal

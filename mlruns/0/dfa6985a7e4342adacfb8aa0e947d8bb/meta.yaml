@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Saurabh%20Kamal/Desktop/Data/Krish/Model%20Deployment/MLOPS%20%20Production%20Ready%20Data%20Science%20Projects/Project%20Batch%20-%201/Chest-Disease-Classification/mlruns/0/dfa6985a7e4342adacfb8aa0e947d8bb/artifacts
+end_time: 1717627771496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfa6985a7e4342adacfb8aa0e947d8bb
+run_name: clumsy-conch-453
+run_uuid: dfa6985a7e4342adacfb8aa0e947d8bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717627765072
+status: 4
+tags: []
+user_id: Saurabh Kamal

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Saurabh%20Kamal/Desktop/Data/Krish/Model%20Deployment/MLOPS%20%20Production%20Ready%20Data%20Science%20Projects/Project%20Batch%20-%201/Chest-Disease-Classification/mlruns/0/75c95c5b23df4bbb8e14e851902f2252/artifacts
+end_time: 1717626780713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75c95c5b23df4bbb8e14e851902f2252
+run_name: bedecked-mare-381
+run_uuid: 75c95c5b23df4bbb8e14e851902f2252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717626774257
+status: 4
+tags: []
+user_id: Saurabh Kamal
